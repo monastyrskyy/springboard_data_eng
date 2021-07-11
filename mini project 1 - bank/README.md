@@ -7,7 +7,7 @@ Most of the functions are self-explanatory, following a standard naming conventi
 # Note
 The data will be stored as a list, until the appropriate function is run to export it to a JSON file. The data relationships are specified below.
 
-For example:
+For example:<br />
 emp = []<br />
 emp.append(Employee("Rita Johnson", 50000))<br />
 emp.append(Employee("Steven Gladwell", 45000))<br />
