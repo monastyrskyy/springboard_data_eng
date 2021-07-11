@@ -8,9 +8,9 @@ Most of the functions are self-explanatory, following a standard naming conventi
 The data will be stored as a list, until the appropriate function is run to export it to a JSON file. The data relationships are specified below.
 
 For example:
-emp = []\n
-emp.append(Employee("Rita Johnson", 50000))\n
-emp.append(Employee("Steven Gladwell", 45000))\n
+emp = []<br />
+emp.append(Employee("Rita Johnson", 50000))<br />
+emp.append(Employee("Steven Gladwell", 45000))<br />
 
 The code above will create a list of employees. When the user is ready, he can save that list as a JSON file in a folder called Bank, which the script will create on its own, if not already present.
 
