@@ -15,4 +15,4 @@ emp.append(Employee("Steven Gladwell", 45000))
 The code above will create a list of employees. When the user is ready, he can save that list as a JSON file in a folder called Bank, which the script will create on its own, if not already present.
 
 # Data Relationships and Errors
-![](Bank Classes Diagram.jpeg)
+![](Bank Classes Diagram.png)
